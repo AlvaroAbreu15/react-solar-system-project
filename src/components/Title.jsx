@@ -15,14 +15,4 @@ Title.propTypes = {
   headline: PropTypes.string.isRequired,
 };
 
-// Title.propTypes = {
-//   headline: PropTypes.shape({
-//     planets: PropTypes.string.isRequired,
-//   }),
-// };
-
-// Title.default = {
-//   headline: {},
-// };
-
 export default Title;
